@@ -1,9 +1,12 @@
 body{
-    background:darkblue;
+    background: gold;
     text-align:center;
 }
+b{
+    color:green;
+}
 h1,h2{
-    color:white;
+    color:black;
 }
 table{
     margin:auto;
@@ -15,9 +18,9 @@ th,td{
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Old versions of Firefox */
+    -moz-user-select: none; /* Versões antigas do Firefox */
     -ms-user-select: none; /* Internet Explorer/Edge */
-    user-select: none; /* Non-prefixed version, currently*/
+    user-select: none; /* Versões não prefixadas, em uso*/
 }
 th{
     background-color:red;
@@ -48,7 +51,7 @@ td.botao{
 }
 div.fixa{
     position: fixed;
-    background:darkblue;
+    background:gold;
     width:100%;
     padding:0px;
     margin:-22px auto auto auto;
