@@ -61,3 +61,8 @@ img{
     max-height:20px;
     margin:0px;
 }
+img.logo{
+    height: 300px;
+    max-width:300px;
+    max-height:100px;
+}
