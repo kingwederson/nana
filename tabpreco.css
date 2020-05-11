@@ -64,5 +64,6 @@ img.carr{
     margin:0px;
 }
 img.logo{
-    height: 86px;
+    max-height: 86px;
+    max-width: 100%;
 }
