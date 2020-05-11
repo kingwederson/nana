@@ -35,6 +35,7 @@ td{
 tr:hover td{
     background-color:darkblue;
     color:white;
+    border:3px solid red;
 }
 td.produto{
     text-align:left;
