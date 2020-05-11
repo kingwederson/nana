@@ -25,6 +25,8 @@ th,td{
 th{
     background-color:red;
     color:white;
+    position: sticky;
+    top: 0px;
 }
 td{
     background-color:white;
@@ -56,13 +58,11 @@ div.fixa{
     padding:0px;
     margin:-22px auto auto auto;
 }
-img{
+img.carr{
     max-width:20px;
     max-height:20px;
     margin:0px;
 }
 img.logo{
-    height: 300px;
-    max-width:300px;
-    max-height:100px;
+    height: 86px;
 }
